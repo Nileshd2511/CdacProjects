@@ -1,0 +1,22 @@
+.select-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .modern-select {
+    appearance: none; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    background-color: white; 
+    color: #333;
+    font-size: 16px; 
+    width: 100%;
+    border-radius: 5px;
+    outline: none; 
+    cursor: pointer; 
+  }
+  
+  .modern-select:focus {
+    border-color: #007bff; 
+  }
+  

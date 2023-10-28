@@ -1,0 +1,15 @@
+.selectorbox {
+    background-color: white;
+    color: black;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    min-width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+    font-weight: bold;
+    height: 50px;
+    margin-left: -0.6px;
+
+}

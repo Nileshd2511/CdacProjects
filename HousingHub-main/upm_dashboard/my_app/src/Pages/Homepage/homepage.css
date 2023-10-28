@@ -1,0 +1,22 @@
+/* Homepage.css */
+
+.content {
+    padding: 20px;
+  }
+  
+  .building-section {
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+  }
+  
+  .building-info {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .building-image {
+    max-width: 50%;
+    height: auto;
+  }
+  
